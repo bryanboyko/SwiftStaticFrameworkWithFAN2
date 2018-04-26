@@ -1,0 +1,6 @@
+framework module Pods_SwiftStaticLibWithFAN2 {
+  umbrella header "Pods-SwiftStaticLibWithFAN2-umbrella.h"
+
+  export *
+  module * { export * }
+}
